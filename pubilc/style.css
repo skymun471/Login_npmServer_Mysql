@@ -1,0 +1,14 @@
+h1 {
+  display: flex;
+  justify-content: center;
+}
+.box {
+  display: flex;
+  justify-content: center;
+}
+.result {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+  color: red;
+}
